@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>startbootstrap-creative</artifactId>
-    <version>3.3.7+1</version>
+    <version>3.3.8-SNAPSHOT</version>
     <name>startbootstrap-creative</name>
     <description>WebJar for startbootstrap-creative</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/startbootstrap-creative</url>
         <connection>scm:git:https://github.com/webjars/startbootstrap-creative.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/startbootstrap-creative.git</developerConnection>
-        <tag>startbootstrap-creative-3.3.7+1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
