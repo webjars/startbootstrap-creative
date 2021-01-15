@@ -11,15 +11,15 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>startbootstrap-creative</artifactId>
-    <version>3.3.8-SNAPSHOT</version>
+    <version>6.0.4-SNAPSHOT</version>
     <name>startbootstrap-creative</name>
     <description>WebJar for startbootstrap-creative</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.dir>3.3.7-1</upstream.dir>
-        <upstream.url>https://github.com/BlackrockDigital/startbootstrap-creative/archive/v${version.unsnapshot}.zip</upstream.url>
+        <upstream.dir>6.0.4</upstream.dir>
+        <upstream.url>https://github.com/StartBootstrap/startbootstrap-creative/archive/v${version.unsnapshot}.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
         <requirejs>
             {
@@ -41,7 +41,7 @@
     <licenses>
         <license>
             <name>MIT</name>
-            <url>https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE</url>
+            <url>https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
